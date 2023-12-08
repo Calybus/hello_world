@@ -1,2 +1,3 @@
 # hello_world
-Python3-pre-k
+Practicing-Python3
+"View some of the progress I've made on my journey from NOOB to Engineer" 
